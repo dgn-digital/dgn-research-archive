@@ -1,0 +1,322 @@
+{
+  "run": "2026-08-08-manual-transcript-batch",
+  "date": "2026-08-08",
+  "mode": "manual-upload",
+  "source": "Ravinder uploaded 44 transcript files (39 unique after de-dup); analysed with the research-engine METHOD (parallel per-video extraction -> synthesis -> values filter -> routing). Full transcripts were provided manually and are not stored here; this file is the source manifest.",
+  "videos_analysed": 39,
+  "note": "Findings routed into Claude memory subject files per the dgn-research-engine skill (dgn-gas/dgn-digital/personal-brand frameworks, filtering-principles, execution-tracker, research-index). processed/index.json intentionally NOT modified (known overwrite bug).",
+  "videos": [
+    {
+      "id": "0zmIAhEI09A",
+      "title": "How to Use Stories to Elevate Your Brand",
+      "creator": "Chris Do",
+      "credibility": "Med",
+      "verdict": "CONFIRM+ADOPT",
+      "route": "Brand/GAS/Digital"
+    },
+    {
+      "id": "v8rfMt87Lb8",
+      "title": "How to Craft a Story Brand That People Remember",
+      "creator": "Chris Do",
+      "credibility": "Med",
+      "verdict": "ADOPT",
+      "route": "Brand/GAS"
+    },
+    {
+      "id": "5HfeNDleTS4",
+      "title": "3 Storytelling Ingredients",
+      "creator": "Vinh Giang",
+      "credibility": "Med",
+      "verdict": "ADOPT",
+      "route": "Brand/GAS"
+    },
+    {
+      "id": "XNj_UX_2H6s",
+      "title": "Master Storyteller: Attention Architecture",
+      "creator": "ex-doc editor",
+      "credibility": "Med-High",
+      "verdict": "ADOPT",
+      "route": "Brand/GAS/Digital"
+    },
+    {
+      "id": "xh8z5plhblY",
+      "title": "The Storytelling Genius Behind Million-Dollar Businesses",
+      "creator": "Ben Watkins",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "Brand/GAS"
+    },
+    {
+      "id": "jtmstMt4WLc",
+      "title": "The Dopamine Ladder",
+      "creator": "attention creator",
+      "credibility": "Med",
+      "verdict": "TEST",
+      "route": "GAS/Brand"
+    },
+    {
+      "id": "6r5aCyNKAOI",
+      "title": "The Strategy That WON the Internet's Attention",
+      "creator": "Grace Andrews",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "GAS/Brand/Digital"
+    },
+    {
+      "id": "TDWFU_uEexc",
+      "title": "The Biggest Marketing Opportunity Is Being Ignored",
+      "creator": "GaryVee",
+      "credibility": "High",
+      "verdict": "CONFIRM",
+      "route": "Brand/GAS"
+    },
+    {
+      "id": "hYQ86zg2DmI",
+      "title": "The Interest Media Strategy",
+      "creator": "GaryVee",
+      "credibility": "High",
+      "verdict": "CONFIRM",
+      "route": "Brand/Digital/GAS"
+    },
+    {
+      "id": "L5--2swWZrs",
+      "title": "If I Started A Business in 2026",
+      "creator": "GaryVee",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "GAS/Digital/Brand"
+    },
+    {
+      "id": "yHjHVG6mBg0",
+      "title": "1 Man VS 100 Billion AI Creators",
+      "creator": "GaryVee",
+      "credibility": "High",
+      "verdict": "CONFIRM; REJECT synthetic-influencer",
+      "route": "Brand/GAS"
+    },
+    {
+      "id": "byAExsTL4g0",
+      "title": "Gary Vee on My First Million",
+      "creator": "GaryVee",
+      "credibility": "High",
+      "verdict": "CONFIRM",
+      "route": "Brand/GAS/Digital"
+    },
+    {
+      "id": "dMZ-n2KSlxE",
+      "title": "SPCL / attention livestream",
+      "creator": "Alex Hormozi",
+      "credibility": "High",
+      "verdict": "CONFIRM",
+      "route": "Brand/GAS"
+    },
+    {
+      "id": "dqqabzhpsFY",
+      "title": "Rich not famous",
+      "creator": "Alex Hormozi",
+      "credibility": "High",
+      "verdict": "CONFIRM",
+      "route": "Brand"
+    },
+    {
+      "id": "aNhYhPqdk7A",
+      "title": "Audience > views",
+      "creator": "Alex Hormozi",
+      "credibility": "High",
+      "verdict": "CONFIRM",
+      "route": "Brand/GAS/Digital"
+    },
+    {
+      "id": "ZvAwqGH_79Q",
+      "title": "Making Money With Social Media (6 C's)",
+      "creator": "Codie Sanchez",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "Digital/GAS/Brand"
+    },
+    {
+      "id": "3fsJFUvA6Ts",
+      "title": "How to Build The Perfect Business",
+      "creator": "Alex Hormozi",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "Digital"
+    },
+    {
+      "id": "9Dc2UQbQNTo",
+      "title": "3 Landing Page Tests (CRO)",
+      "creator": "Alex Hormozi",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "GAS/Digital"
+    },
+    {
+      "id": "LdPHurNaIec",
+      "title": "How to Package Your Services / Irresistible Offer",
+      "creator": "Chris Do",
+      "credibility": "Med",
+      "verdict": "ADOPT",
+      "route": "Digital/GAS"
+    },
+    {
+      "id": "mgNTZRpZmEk",
+      "title": "Don't Start a Business Until You Watch This",
+      "creator": "Chris Do",
+      "credibility": "Med",
+      "verdict": "MIXED (avatar REJECT)",
+      "route": "Digital/Brand"
+    },
+    {
+      "id": "NMSHcSq8nMs",
+      "title": "Customer Profiles / spend money save time",
+      "creator": "Chris Do",
+      "credibility": "Med",
+      "verdict": "CONFIRM; REJECT avatar",
+      "route": "Digital"
+    },
+    {
+      "id": "dOZkAqR_2lA",
+      "title": "How I Get Unlimited Leads (trust grid + scorecard)",
+      "creator": "Chris Do + Matt Essam",
+      "credibility": "Med-High",
+      "verdict": "REINFORCE",
+      "route": "Digital/GAS"
+    },
+    {
+      "id": "axkrL7UOxVw",
+      "title": "The Hard Path / niching / the Dip",
+      "creator": "Chris Do",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "Digital/Brand"
+    },
+    {
+      "id": "az1Zh-FNSno",
+      "title": "Online Scorecard Lead-Gen System",
+      "creator": "Daniel Priestley",
+      "credibility": "Med",
+      "verdict": "REINFORCE",
+      "route": "Digital/GAS"
+    },
+    {
+      "id": "7p-ZPK3GfI8",
+      "title": "How To Build a Website SO Premium",
+      "creator": "agency owner",
+      "credibility": "Med",
+      "verdict": "ADOPT",
+      "route": "Digital/GAS"
+    },
+    {
+      "id": "fIs1ZSmEJGU",
+      "title": "Google's Biggest SEO Leak Changed Everything",
+      "creator": "Mike King (iPullRank)",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "Digital/GAS"
+    },
+    {
+      "id": "o_Hsrr-nqL8",
+      "title": "How I Structure Content so AI Actually Cites It",
+      "creator": "SEMrush",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "Digital/GAS"
+    },
+    {
+      "id": "7b77qIQvRMQ",
+      "title": "Betting My Marketing Strategy On One Shift (Reputation)",
+      "creator": "Neil Patel",
+      "credibility": "Med-High",
+      "verdict": "ADOPT",
+      "route": "GAS/Digital"
+    },
+    {
+      "id": "WZrSlgdm5GQ",
+      "title": "Keywords Are Dead, Do THIS Instead (local)",
+      "creator": "local-SEO creator",
+      "credibility": "Med-High",
+      "verdict": "ADOPT",
+      "route": "Digital/GAS"
+    },
+    {
+      "id": "IdmE4udhaBg",
+      "title": "Local SEO in the AI Era",
+      "creator": "Joy Hawkins & Caleb Ulku",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "GAS/Digital"
+    },
+    {
+      "id": "b9feF3IBmQc",
+      "title": "How to Get Mentioned by AI Search",
+      "creator": "affiliate creator",
+      "credibility": "Low-Med",
+      "verdict": "MIXED",
+      "route": "GAS/Digital"
+    },
+    {
+      "id": "9SUmrqhNjjM",
+      "title": "Claude AI SEO Skill: 0 to 325 Clicks",
+      "creator": "Goldie/AI Profit",
+      "credibility": "Low",
+      "verdict": "REJECT",
+      "route": "Digital (anti-pattern)"
+    },
+    {
+      "id": "cZD6OaW8Lcw",
+      "title": "This Claude AI SEO Skill Ranks #1 Fast",
+      "creator": "Goldie/AI Profit",
+      "credibility": "Low",
+      "verdict": "REJECT",
+      "route": "Digital (anti-pattern)"
+    },
+    {
+      "id": "muwrS4Dh_R8",
+      "title": "Rank & Rent SEO: 130 Sites",
+      "creator": "Ippei / Compact Keywords",
+      "credibility": "Low",
+      "verdict": "REJECT",
+      "route": "Digital (anti-pattern)"
+    },
+    {
+      "id": "HQXi4snP36I",
+      "title": "They Built an AI God Agent for 1,000 Employees",
+      "creator": "Guillermo Rauch (Vercel)",
+      "credibility": "Med-High",
+      "verdict": "ADOPT models",
+      "route": "Digital"
+    },
+    {
+      "id": "u6UCueB-WKQ",
+      "title": "How Businesses Can Use GoHighLevel's Browser Control AI",
+      "creator": "Dominic",
+      "credibility": "Low-Med",
+      "verdict": "TEST",
+      "route": "Digital"
+    },
+    {
+      "id": "aE1cxVTEbcw",
+      "title": "He Sold AI Agents to 200 Local Businesses",
+      "creator": "Vendasta / Clint Rudolph",
+      "credibility": "Low",
+      "verdict": "REJECT / anti-pattern",
+      "route": "Digital"
+    },
+    {
+      "id": "c-fRoShtmmY",
+      "title": "Opus 5 Just Destroyed A $1.3B CRM Tool (Lead Stack)",
+      "creator": "Lead Stack promo",
+      "credibility": "Low",
+      "verdict": "WATCH",
+      "route": "Digital"
+    },
+    {
+      "id": "AN7AKfebAPE",
+      "title": "How to Get Someone to Behave Differently",
+      "creator": "Alex Hormozi",
+      "credibility": "High",
+      "verdict": "ADOPT",
+      "route": "Digital/GAS/Brand"
+    }
+  ]
+}
